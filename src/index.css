@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+Normal Native CSS
+SCSS and SASS
+inline CSS
+Component Library :: Material UI,Base UI,Ant,Chakra  ==>we cant controll on something.
+Styled Component --->> css in js like (html inside js == JSX)
+Tailwind CSS  
+###### Tailwind CSS #######
+-     CSS on the go (inline)
+-     reusabilities
+-     less Bundle size
+-     Flexible  UI (Custmization)
+-     
+*/
+
+/* 
+.Header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px; 
+    border: 1px solid black;  
+}
+
+.nav-items {
+    display: flex;
+}
+.nav-items > ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+}
+
+.logo{
+    width: 100px;
+    margin: 5px;
+}
+
+.card{
+    width: 190px;
+    /* height:350px; */
+    /* border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card > img{
+    width: 100%;
+}
+
+.res-list{
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.shimmer-card{
+    width: 190px;
+    height: 250px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+
+}
+
+.login{
+    background: none;
+    border: none;
+}
+
+a{
+    text-decoration: none;
+}
+ */
+
+/* .signup-div{
+    border: 1px solid red;
+    width: 500px;
+}
+
+.login-container{
+    display:block;
+    box-sizing:border-box;
+    width: 500px;
+    align-items: flex-start;
+    background-color:#ccfff0;
+    padding: 10px;
+}
+
+.input{
+    border:1px solid black;
+    border-radius: 3px;
+} */ 
